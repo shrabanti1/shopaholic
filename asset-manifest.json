@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopaholic/static/css/main.c969ea52.css",
+    "main.js": "/shopaholic/static/js/main.7c8a30e1.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/shopaholic/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/shopaholic/index.html",
+    "main.c969ea52.css.map": "/shopaholic/static/css/main.c969ea52.css.map",
+    "main.7c8a30e1.js.map": "/shopaholic/static/js/main.7c8a30e1.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/shopaholic/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c969ea52.css",
+    "static/js/main.7c8a30e1.js"
+  ]
+}
